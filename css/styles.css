@@ -1,0 +1,20 @@
+header, footer {
+    background-color: antiquewhite;
+    height: 80px;
+}
+
+.menu{
+    background-color: red;
+}
+
+.section {
+    background-color: orange;
+}
+
+.cabecera {
+    background-color: pink;
+}
+
+.caja {
+    background-color: blue;
+}
